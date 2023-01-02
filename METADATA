@@ -1,14 +1,3 @@
-
-name: "Fraunces"
-description:
-    "Fraunces font"
-
-third_party {
-  url {
-    type: GIT
-    value: "https://github.com/undercasetype/Fraunces"
-  }
-  version: "23826a66e896a039beb0b75bf93d6ff09a81caa7"
-  last_upgrade_date { year: 2020 month: 2 day: 28 }
-  license_type: BY_EXCEPTION_ONLY
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6e2b9dd82e59802498bb30db05f8c27b3dbc7b184abbaf189564d493d561fc
+size 288
